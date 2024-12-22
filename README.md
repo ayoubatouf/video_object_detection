@@ -4,6 +4,8 @@
 
 In this project, we implement a video object detection program that takes an AVI video as input and detects the classes of objects along with their corresponding probabilities using the `yolo11m` model (you can change the model depending on your GPU performance). The classes detected will be those that the YOLO model has been trained on.
 
+![](image.png)
+
 ## Usage
 
 - Replace `input_video.avi` with your input video.
